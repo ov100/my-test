@@ -23,5 +23,6 @@
 hs_err_pid*
 .ide
 .iml
+**/*.iml
 .idea
 .idea/**
